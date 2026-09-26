@@ -100,6 +100,9 @@ spotify-web-clone/
 
 ## 📸 Project Preview
 
+<img src="E:\SPOTIFY\assets\Screenshot (139).png
+" alt="Spotify Web Clone" width="900">
+
 
 
 ```markdown
