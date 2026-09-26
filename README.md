@@ -98,16 +98,14 @@ spotify-web-clone/
 └── README.md
 ```
 
-
-
 ## 📸 Project Preview
 
-Add screenshots of your project here:
+<img src="C:\Users\a\Pictures\Screenshots\Screenshot (139).png" alt="Spotify Web Clone" width="900">
 
 ```markdown
 ![Spotify Web Clone](https://github.com/user-attachments/assets/C:\Users\a\Pictures\Screenshots\Screenshot (139).png)
 ```
-
+"
 ## 🎯 What I Learned
 
 While creating this project, I practiced:
